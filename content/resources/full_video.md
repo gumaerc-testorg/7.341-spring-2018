@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/7-341-the-microbiome-and-drug-delivery-cross-species-communication-in-health-and-disease-spring-2018/fb94d9dda3a7c82158c0c410de70abce_full_video.jpg
+file: /media/courses/7-341-the-microbiome-and-drug-delivery-cross-species-communication-in-health-and-disease-spring-2018/fb94d9dda3a7c82158c0c410de70abce_full_video.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: full_video.jpg
 uid: fb94d9dd-a3a7-c821-58c0-c410de70abce

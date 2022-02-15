@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 263aa0f3-b7af-bfea-a0fa-1de08381879b
 ---
@@ -42,20 +44,6 @@ Unrestricted elective credits ![Unrestricted elective credits](/images/educator/
 ### Offered
 
 Advanced Undergraduate Seminars are offered nearly every semester and are on various topics. This was the first time this specific topic was offered.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Students sitting around a table in a seminar room.]({{< resource_file 8324cdeb-9b1a-ed54-5063-a5b1006856b2 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    A seminar room with chairs grouped around a single large table, with screens and whiteboard on the walls.
-    
 
 Assessment
 ----------
