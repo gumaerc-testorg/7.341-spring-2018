@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'The Final Presentation: A Chance to Assess How Well Students Understood the
   Purpose of the Course'
 uid: c95e1b89-5878-1642-f1ee-cae6a04dd242

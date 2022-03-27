@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Teaching the Course as Post-Docs: An Opportunity to Give Back to the Community
   and to See Your Own Research from a Different Perspective'
 uid: b526f645-8f25-4c6a-0d10-a95009aabed1

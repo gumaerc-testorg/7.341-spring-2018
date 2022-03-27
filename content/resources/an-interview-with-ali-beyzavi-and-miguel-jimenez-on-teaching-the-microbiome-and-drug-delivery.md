@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: Contact Instructors
@@ -11,6 +12,7 @@ parent_type: ThisCourseAtMITSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: An Interview with Ali Beyzavi and Miguel Jimenez on Teaching the Microbiome
   and Drug Delivery
 uid: ac071b01-93c0-a2fb-c07b-d46c656fa2cf
