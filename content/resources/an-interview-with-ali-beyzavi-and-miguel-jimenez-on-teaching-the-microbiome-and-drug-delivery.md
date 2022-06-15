@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: Contact Instructors
 optional_text: Users who wish to communicate with the instructors may contact Dr.
   Beyzavi by email (a.beyzavi@gmail.com) or Dr. Jimenez through Twitter (@jmigueljd).

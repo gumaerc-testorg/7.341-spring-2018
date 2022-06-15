@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of readings by week including links to lecture
+  summaries and online journal articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ READINGS
 
 Introduction to the human microbiome
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week1)
+{{% resource_link 7c050027-bd00-bba9-6a48-cfe169c3dcb4 "See the Lecture Summary" "#week1" %}}
 
 
 {{< tdclose >}}
@@ -56,7 +58,7 @@ No Readings
 
 Microbes use small molecules to communicate
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week2)
+{{% resource_link 7c050027-bd00-bba9-6a48-cfe169c3dcb4 "See the Lecture Summary" "#week2" %}}
 
 
 {{< tdclose >}}
@@ -80,7 +82,7 @@ Passador, Luciano, Kenneth D. Tucker, et al. "[Functional Analysis of the _Pseud
 
 Microfluidics technology to study the human microbiome
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week3)
+{{% resource_link 7c050027-bd00-bba9-6a48-cfe169c3dcb4 "See the Lecture Summary" "#week3" %}}
 
 
 {{< tdclose >}}
@@ -104,7 +106,7 @@ Luo, Xiaolong, Chen-Yu Tsao, et al. "[Distal Modulation of Bacterial Cell-cell S
 
 Field trip to [Ginkgo Bioworks](https://www.ginkgobioworks.com/foundries/), the organism company
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week4)
+{{% resource_link 7c050027-bd00-bba9-6a48-cfe169c3dcb4 "See the Lecture Summary" "#week4" %}}
 
 
 {{< tdclose >}}
@@ -128,7 +130,7 @@ Kwok, Roberta. "[Five Hard Truths for Synthetic Biology](http://doi.org/10.1038/
 
 Microbes engineered to detect and potentially kill pathogens
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week5)
+{{% resource_link 7c050027-bd00-bba9-6a48-cfe169c3dcb4 "See the Lecture Summary" "#week5" %}}
 
 
 {{< tdclose >}}
@@ -158,7 +160,7 @@ Saeidi, Nazanin, Choon Kit Wong, et al. "[Engineering Microbes to Sense and Erad
 
 Microbes use peptides as a defense and as signals
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week6)
+{{% resource_link 7c050027-bd00-bba9-6a48-cfe169c3dcb4 "See the Lecture Summary" "#week6" %}}
 
 
 {{< tdclose >}}
@@ -182,7 +184,7 @@ de Ruyter, Pascalle G., Oscar P. Kuipers, et al. "[Controlled Gene Expression Sy
 
 Drug delivery using microbes engineered to secrete peptides
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week7)
+{{% resource_link 7c050027-bd00-bba9-6a48-cfe169c3dcb4 "See the Lecture Summary" "#week7" %}}
 
 
 {{< tdclose >}}
@@ -206,7 +208,7 @@ Blanquet, Stéphanie, Richard Antonelli, et al. "[Living Recombinant _Saccharomy
 
 Competence-stimulating peptides as cross-species signals
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week8)
+{{% resource_link 7c050027-bd00-bba9-6a48-cfe169c3dcb4 "See the Lecture Summary" "#week8" %}}
 
 
 {{< tdclose >}}
@@ -236,7 +238,7 @@ Jarosz, Lucja M., Dong Mei Deng, et al. "[Streptococcus Mutans Competence-stimul
 
 Using seminars and talks for sharing scientific discoveries
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week9)
+{{% resource_link 7c050027-bd00-bba9-6a48-cfe169c3dcb4 "See the Lecture Summary" "#week9" %}}
 
 
 {{< tdclose >}}
@@ -258,7 +260,7 @@ View video and prepare for discussion: Chris Voigt. "[Genetic Circuits: Programm
 
 Advance culturing techniques to study microbiomes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week10)
+{{% resource_link 7c050027-bd00-bba9-6a48-cfe169c3dcb4 "See the Lecture Summary" "#week10" %}}
 
 
 {{< tdclose >}}
@@ -282,7 +284,7 @@ Kim, Hyun Jung, Hu Li, et al. "[Contributions of Microbiome and Mechanical Defor
 
 Host-generated peptides shape their microbiomes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week11)
+{{% resource_link 7c050027-bd00-bba9-6a48-cfe169c3dcb4 "See the Lecture Summary" "#week11" %}}
 
 
 {{< tdclose >}}
@@ -306,7 +308,7 @@ Cullen, T. W., W. B. Schofield, et al. "[Antimicrobial Peptide Resistance Mediat
 
 Microbes as neuromodulators
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week12)
+{{% resource_link 7c050027-bd00-bba9-6a48-cfe169c3dcb4 "See the Lecture Summary" "#week12" %}}
 
 
 {{< tdclose >}}
@@ -330,7 +332,7 @@ Thaiss, Christoph A., David Zeevi, et al. "[Transkingdom Control of Microbiota D
 
 Microbes as cancer therapeutics
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week13)
+{{% resource_link 7c050027-bd00-bba9-6a48-cfe169c3dcb4 "See the Lecture Summary" "#week13" %}}
 
 
 {{< tdclose >}}
@@ -354,7 +356,7 @@ Anderson, J. Christopher, Elizabeth J. Clarke, et al. "[Environmentally Controll
 
 Oral presentations, conclusion and closing remarks
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#week14)
+{{% resource_link 7c050027-bd00-bba9-6a48-cfe169c3dcb4 "See the Lecture Summary" "#week14" %}}
 
 
 {{< tdclose >}}

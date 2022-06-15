@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/7-341-the-microbiome-and-drug-delivery-cross-species-communication-in-health-and-disease-spring-2018/9296898be716e4bd25c3f24f8496f0c4_blD8f7MOhFQ.srt
+file: /courses/7-341-the-microbiome-and-drug-delivery-cross-species-communication-in-health-and-disease-spring-2018/9296898be716e4bd25c3f24f8496f0c4_blD8f7MOhFQ.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

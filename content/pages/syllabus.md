@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a course description, information on course format
+  and grading, and a calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -18,9 +20,9 @@ A general knowledge of molecular biology, biochemistry or cell biology will be h
 
 _7.05 Biological Chemistry_
 
-[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007/)
+[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007)
 
-[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005/)
+[_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005)
 
 or their equivalents. Chemistry, Chemical Engineering, and Bioengineering students are highly encouraged to attend.
 
