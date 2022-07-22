@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains lecture summaries for every week.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 7c050027-bd00-bba9-6a48-cfe169c3dcb4
 ---
@@ -232,7 +236,7 @@ Microbes as cancer therapeutics
 {{< tdopen >}}
 
 
-{{< anchor "week13" >}}{{< /anchor >}}As early as the 19th century, it was discovered that certain bacterial infections might have a marked therapeutic effect on certain cancer patients. Bacteria can sense their environment and deliver proteins to eukaryotic cells. In this session we talk about engineering bacteria to invade cancer cells. In the first paper, Zhao et al. demonstrate the development of an effective bacterial cancer therapy by targeting tumor tissue, using _Salmonella typhimurium_ leu-arg auxotrophs. This auxotrophy successfully restricts growth of bacteria in normal tissue. These bacteria were used to treat metastatic human prostate tumors implanted in nude mice. They show some of the treated mice were alive and well at the time the last untreated mouse died.
+{{< anchor "week13" >}}{{< /anchor >}}As early as the 19{{< sup "th" >}} century, it was discovered that certain bacterial infections might have a marked therapeutic effect on certain cancer patients. Bacteria can sense their environment and deliver proteins to eukaryotic cells. In this session we talk about engineering bacteria to invade cancer cells. In the first paper, Zhao et al. demonstrate the development of an effective bacterial cancer therapy by targeting tumor tissue, using _Salmonella typhimurium_ leu-arg auxotrophs. This auxotrophy successfully restricts growth of bacteria in normal tissue. These bacteria were used to treat metastatic human prostate tumors implanted in nude mice. They show some of the treated mice were alive and well at the time the last untreated mouse died.
 
 In the second paper Anderson et al. demonstrate engineering of _Escherichia coli_ to invade cancer-derived cell lines including HeLa, HepG2, and U2OS.
 
