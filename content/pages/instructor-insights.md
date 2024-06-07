@@ -12,7 +12,7 @@ uid: 263aa0f3-b7af-bfea-a0fa-1de08381879b
 ---
 ## Instructor Insights
 
-_7.341 The Microbiome and Drug Delivery: Cross-species Communication in Health and Disease_ is an undergraduate seminar course developed by MIT instructors/postdocs under the supervision of Professor Bob Horvitz (MIT Koch Professor and 2002 Nobel Laureate in Medicine). The instructors were responsible for developing the whole course syllabus, homework, midterm, and final evaluations as well as teaching all the class sessions independently.
+*7.341 The Microbiome and Drug Delivery: Cross-species Communication in Health and Disease* is an undergraduate seminar course developed by MIT instructors/postdocs under the supervision of Professor Bob Horvitz (MIT Koch Professor and 2002 Nobel Laureate in Medicine). The instructors were responsible for developing the whole course syllabus, homework, midterm, and final evaluations as well as teaching all the class sessions independently.
 
 In the following video, Drs. Ali Beyzavi and Miguel Jimenez describe various aspects of how they taught the course.
 
@@ -20,25 +20,25 @@ In the following video, Drs. Ali Beyzavi and Miguel Jimenez describe various asp
 
  
 
-{{% resource_link ac071b01-93c0-a2fb-c07b-d46c656fa2cf "An Interview with Ali Beyzavi and Miguel Jimenez on Teaching the Microbiome and Drug Delivery" %}}
+{{% resource_link "ac071b01-93c0-a2fb-c07b-d46c656fa2cf" "An Interview with Ali Beyzavi and Miguel Jimenez on Teaching the Microbiome and Drug Delivery" %}}
 
 ### View by chapter:
 
-- {{% resource_link a6f5da5b-8de7-1c62-201c-292d1b8ba514 "The Crux of the Class: Critically Reading the Primary Literature" %}}
-- {{% resource_link dc64a99b-958a-9a55-b530-266ff0cd036c "The Role of Instructor-led Questioning" %}}
-- {{% resource_link 62abd053-16fa-a6af-8326-bc350e49d103 "The Mid-term Assignment: Solving a Puzzle" %}}
-- {{% resource_link c95e1b89-5878-1642-f1ee-cae6a04dd242 "The Final Presentation: A Chance to Assess How Well Students Understood the Purpose of the Course" %}}
-- {{% resource_link 714e78fe-be31-7ade-9d09-def18230fc7b "Real-world Applications: Visiting a Synthetic Biology Company" %}}
-- {{% resource_link b526f645-8f25-4c6a-0d10-a95009aabed1 "Teaching the Course as Post-Docs: An Opportunity to Give Back to the Community and to See Your Own Research from a Different Perspective" %}}
+- {{% resource_link "a6f5da5b-8de7-1c62-201c-292d1b8ba514" "The Crux of the Class: Critically Reading the Primary Literature" %}}
+- {{% resource_link "dc64a99b-958a-9a55-b530-266ff0cd036c" "The Role of Instructor-led Questioning" %}}
+- {{% resource_link "62abd053-16fa-a6af-8326-bc350e49d103" "The Mid-term Assignment: Solving a Puzzle" %}}
+- {{% resource_link "c95e1b89-5878-1642-f1ee-cae6a04dd242" "The Final Presentation: A Chance to Assess How Well Students Understood the Purpose of the Course" %}}
+- {{% resource_link "714e78fe-be31-7ade-9d09-def18230fc7b" "Real-world Applications: Visiting a Synthetic Biology Company" %}}
+- {{% resource_link "b526f645-8f25-4c6a-0d10-a95009aabed1" "Teaching the Course as Post-Docs: An Opportunity to Give Back to the Community and to See Your Own Research from a Different Perspective" %}}
 
 ## Curriculum Information
 
 ### Prerequisites
 
-- [_7.03 Genetics_](/courses/7-03-genetics-fall-2004)
-- _7.05 General Biochemistry_
-- [_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007)
-- [_7.28 Molecular Biology_](/courses/7-28-molecular-biology-spring-2005)
+- [*7.03 Genetics*](/courses/7-03-genetics-fall-2004)
+- *7.05 General Biochemistry*
+- [*7.06x Cell Biology*](/courses/res-7-007-7-06x-cell-biology/)
+- [*7.28x Molecular Biology*](/courses/res-7-008-7-28x-molecular-biology/)
 
 ### Requirements Satisfied
 
